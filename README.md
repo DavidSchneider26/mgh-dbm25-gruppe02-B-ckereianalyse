@@ -1,0 +1,1 @@
+# mgh-dbm25-gruppe02-B-ckereianalyse
