@@ -1,4 +1,4 @@
-# mgh-dbm25-gruppe02-B-ckereianalyse
+# mgh-dbm25-gruppe02-Baeckereianalyse
 Gewinn und unverkaufte Ware in einer Bäckerei – eine Datenanalyse
  
 Gruppe 2: David Schneider, Steffen Scheer, Simon Noe
